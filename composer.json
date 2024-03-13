@@ -8,6 +8,7 @@
     ],
     "homepage": "https://github.com/skodjob/parsedown-highlight",
     "license": "MIT",
+    "version": "0.4.1",
     "authors": [
         {
             "name": "TJ Miller",
